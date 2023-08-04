@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crypto0/static/js/main.a7ec3d0d.js",
+    "index.html": "/crypto0/index.html",
+    "main.a7ec3d0d.js.map": "/crypto0/static/js/main.a7ec3d0d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a7ec3d0d.js"
+  ]
+}
